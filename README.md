@@ -1,2 +1,2 @@
-# CounterApp2
-CounterApp + - 
+# Counter App
+Counter App Contain + - Reset 
